@@ -32,7 +32,7 @@
 - **Language:**  
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-> 현재 **1인 크로스 플랫폼 앱 개발자**를 목표로 Flutter를 적극적으로 학습 및 실습 중입니다.
+> 현재 **1인 크로스 플랫폼 앱 개발자**를 목표로 모바일앱 언어를 적극적으로 학습 및 실습 중입니다.
 
 #### **Other Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
